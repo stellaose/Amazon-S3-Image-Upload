@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+  --font-ubuntu: "Ubuntu";
+  --font-weight-regular: 400;
+  --color-green-100: #16212a;
+  --color-yellow-100: #fbc531;
+}

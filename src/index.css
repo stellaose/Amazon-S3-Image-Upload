@@ -1,0 +1,28 @@
+@import "tailwindcss";
+@import "./theme.css"; 
+
+@font-face {
+  font-family: 'Ubuntu';
+  src: url('./assets/fonts/Ubuntu/Ubuntu-Regular.ttf');
+  /* src: url('./assets/fonts/Ubuntu/Ubuntu-Regular.ttf'); */
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Ubuntu';
+  src: url('./assets/fonts/Ubuntu/Ubuntu-Medium.ttf');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'Ubuntu';
+  src: url('./assets/fonts/Ubuntu/Ubuntu-Bold.ttf');
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'Ubuntu';
+  src: url('./assets/fonts/Ubuntu/Ubuntu-Light.ttf');
+  font-weight: 300;
+}
+
